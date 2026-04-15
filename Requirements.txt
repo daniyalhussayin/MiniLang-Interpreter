@@ -1,0 +1,3 @@
+- Python  
+- PyQt6  
+- Regular Expressions 
